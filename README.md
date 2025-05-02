@@ -30,7 +30,7 @@
 🎓 BCS (CS) @ RBNB College | Foundation in Programming & Data Science – IIT Madras<br>
 ⚙️ Tech: Python, Java, JavaScript, Solidity, Django, NodeJs ,Flask, React, Vue, SQLite, Redis, Celery<br>
 🚀 Projects: Influencer and sponsorship Cordination platform | Food Delivary app | Blockhain based Todo app<br>
-🏆 700+ DSA problems solved | 6th rank @ GFG | IIT-M Hackathon contributor<br>
+🏆 700+ DSA problems solved | 4th Collage rank @ GFG | IIT-M Hackathon contributor<br>
 🎲 Fun fact: My bug fixes sometimes need bug fixes 😄
 </p>
 
